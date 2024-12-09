@@ -1,0 +1,262 @@
+[
+    {
+        "STAGE": "IA",
+        "ER": "Positive",
+        "PR": "Positive",
+        "HER2": "Negative",
+        "TREATMENT": 
+            {
+                "DRUG": "tamoxifen or an aromatase inhibitor",
+                "CHEMOTHERAPY": "adjuvant chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "ado-trastuzumab emtansine"
+            }
+        
+    },
+    {
+        "STAGE": "IA",
+        "ER": "Negative",
+        "PR": "Negative",
+        "HER2": "Positive",
+        "TREATMENT": 
+            {
+                "DRUG": "trastuzumab (with or without pertuzumab)",
+                "CHEMOTHERAPY": "neoadjuvant (before surgery) chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "None"
+            }
+        
+    },
+    {
+        "STAGE": "IB",
+        "ER": "Positive",
+        "PR": "Positive",
+        "HER2": "Negative",
+        "TREATMENT": 
+            {
+                "DRUG": "tamoxifen or an aromatase inhibitor",
+                "CHEMOTHERAPY": "adjuvant chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "ado-trastuzumab emtansine"
+            }
+        
+    },
+    {
+        "STAGE": "IB",
+        "ER": "Negative",
+        "PR": "Negative",
+        "HER2": "Positive",
+        "TREATMENT": 
+            {
+                "DRUG": "trastuzumab (with or without pertuzumab)",
+                "CHEMOTHERAPY": "neoadjuvant (before surgery) chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "None"
+            }
+        
+    },
+    {
+        "STAGE": "IIA",
+        "ER": "Positive",
+        "PR": "Positive",
+        "HER2": "Negative",
+        "TREATMENT": 
+            {
+                "DRUG": "tamoxifen or an aromatase inhibitor",
+                "CHEMOTHERAPY": "started before surgery, given after surgery as well",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "olaparib"
+            }
+        
+    },
+    {
+        "STAGE": "IIA",
+        "ER": "Negative",
+        "PR": "Negative",
+        "HER2": "Positive",
+        "TREATMENT": 
+            {
+                "DRUG": "trastuzumab (with or without pertuzumab)",
+                "CHEMOTHERAPY": "neoadjuvant (before surgery) chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "None"
+            }
+        
+    },
+	{
+        "STAGE": "IIB",
+        "ER": "Positive",
+        "PR": "Positive",
+        "HER2": "Negative",
+        "TREATMENT": 
+            {
+                "DRUG": "tamoxifen or an aromatase inhibitor",
+                "CHEMOTHERAPY": "started before surgery, given after surgery as well",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "olaparib"
+            }
+        
+    },
+    {
+        "STAGE": "IIB",
+        "ER": "Negative",
+        "PR": "Negative",
+        "HER2": "Positive",
+        "TREATMENT": 
+            {
+                "DRUG": "trastuzumab (with or without pertuzumab)",
+                "CHEMOTHERAPY": "neoadjuvant (before surgery) chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "None"
+            }
+        
+    },
+    {
+        "STAGE": "IIIA",
+        "ER": "Positive",
+        "PR": "Positive",
+        "HER2": "Negative",
+        "TREATMENT": 
+            {
+                "DRUG": "abemaciclib, tamoxifen or an AI",
+                "CHEMOTHERAPY": "adjuvant (after surgery) chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "olaparib"
+            }
+        
+    },
+    {
+        "STAGE": "IIIA",
+        "ER": "Negative",
+        "PR": "Negative",
+        "HER2": "Positive",
+        "TREATMENT": 
+            {
+                "DRUG": "trastuzumab, pertuzumab (Perjeta)",
+                "CHEMOTHERAPY": "neoadjuvant (before surgery)",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "None"
+            }
+        
+    },
+    {
+        "STAGE": "IIIA",
+        "ER": "Negative",
+        "PR": "Negative",
+        "HER2": "Positive",
+        "TREATMENT": 
+            {
+                "DRUG": "trastuzumab (with or without pertuzumab)",
+                "CHEMOTHERAPY": "adjuvant (after surgery) chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "ado-trastuzumab emtansine, neratinib"
+            }
+        
+    },
+	{
+        "STAGE": "IIIB",
+        "ER": "Positive",
+        "PR": "Positive",
+        "HER2": "Negative",
+        "TREATMENT": 
+            {
+                "DRUG": "abemaciclib, tamoxifen or an AI",
+                "CHEMOTHERAPY": "adjuvant (after surgery) chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "olaparib"
+            }
+        
+    },
+    {
+        "STAGE": "IIIB",
+        "ER": "Negative",
+        "PR": "Negative",
+        "HER2": "Positive",
+        "TREATMENT": 
+            {
+                "DRUG": "trastuzumab, pertuzumab (Perjeta)",
+                "CHEMOTHERAPY": "neoadjuvant (before surgery)",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "None"
+            }
+        
+    },
+    {
+        "STAGE": "IIIB",
+        "ER": "Negative",
+        "PR": "Negative",
+        "HER2": "Positive",
+        "TREATMENT": 
+            {
+                "DRUG": "trastuzumab (with or without pertuzumab)",
+                "CHEMOTHERAPY": "adjuvant (after surgery) chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "ado-trastuzumab emtansine, neratinib"
+            }
+        
+    },
+	{
+        "STAGE": "IIIC",
+        "ER": "Positive",
+        "PR": "Positive",
+        "HER2": "Negative",
+        "TREATMENT": 
+            {
+                "DRUG": "abemaciclib, tamoxifen or an AI",
+                "CHEMOTHERAPY": "adjuvant (after surgery) chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "olaparib"
+            }
+        
+    },
+    {
+        "STAGE": "IIIC",
+        "ER": "Negative",
+        "PR": "Negative",
+        "HER2": "Positive",
+        "TREATMENT": 
+            {
+                "DRUG": "trastuzumab, pertuzumab (Perjeta)",
+                "CHEMOTHERAPY": "neoadjuvant (before surgery)",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "None"
+            }
+        
+    },
+    {
+        "STAGE": "IIIC",
+        "ER": "Negative",
+        "PR": "Negative",
+        "HER2": "Positive",
+        "TREATMENT": 
+            {
+                "DRUG": "trastuzumab (with or without pertuzumab)",
+                "CHEMOTHERAPY": "adjuvant (after surgery) chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "ado-trastuzumab emtansine, neratinib"
+            }
+        
+    },
+    {
+        "STAGE": "IV",
+        "ER": "Positive",
+        "PR": "Positive",
+        "HER2": "Negative",
+        "TREATMENT": 
+            {
+                "DRUG": "amoxifen or an aromatase inhibitor,  CDK4/6 inhibitor, everolimus, or a PI3K inhibitor",
+                "CHEMOTHERAPY": "neoadjuvant (before surgery)",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "olaparib or talazoparib with a BRCA gene mutation, Alpelisib and fulvestrant  with a PIK3CA gene mutation"
+            }
+        
+    },
+    {
+        "STAGE": "IV",
+        "ER": "Negative",
+        "PR": "Negative",
+        "HER2": "Positive",
+        "TREATMENT": 
+            {
+                "DRUG": "trastuzumab (Herceptin), pertuzumab (Perjeta)",
+                "CHEMOTHERAPY": "with Chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "None"
+            }
+        
+    },
+    {
+        "STAGE": "IV",
+        "ER": "Negative",
+        "PR": "Negative",
+        "HER2": "Negative",
+        "TREATMENT": 
+            {
+                "DRUG": "olaparib or talazoparib with BRCA mutation, pembrolizumab for microsatellite instability (MSI) or changes in any of the mismatch repair (MMR) genes, acituzumab govitecan (Trodelvy) without any specific gene or protein changes",
+                "CHEMOTHERAPY": "with chemotherapy",
+                "RESIDUAL CANCER AFTER SURGERY DRUGS": "None"
+            }
+        
+    }
+]
